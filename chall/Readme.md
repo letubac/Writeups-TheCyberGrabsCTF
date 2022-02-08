@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/57956165/152989665-8af83f62-5460-4981-8512-ce1479e30773.png)
 
-- ở đây chúng ta thấy mảng 28 kí tự, sau đó nó tạo mạng mới và thêm từng ký tự vào mảng.
+- ở đây chúng ta thấy mảng 28 kí tự, sau đó nó tạo mảng mới và thêm từng ký tự vào mảng.
 
 ![image](https://user-images.githubusercontent.com/57956165/152989636-36fd89e4-5031-4225-b36a-c863249b7dc4.png)
 
