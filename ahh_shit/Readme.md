@@ -5,4 +5,5 @@
 
 - ở đây chũng ta thấy nó sẽ kiểm tra độ dài chuỗi v4 với 'h3r3_w3_g0_4g4in!'
 - nếu đúng thì => flag
+
 #Flag: cybergrabs{h3r3_w3_g0_4g4in!}
